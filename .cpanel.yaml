@@ -1,0 +1,5 @@
+---
+deployment:
+      tasks:
+        - export DEPLOYPATH=/home/iprfw94xvfvf/public_html/wp
+        - /bin/cp -r * $DEPLOYPATH
