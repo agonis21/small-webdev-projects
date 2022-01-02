@@ -18,7 +18,7 @@ var goal_list = [
         maximum: 22,
         step: 1,
         description: "essays written this year"
-    },
+    },/*
     {
         goalID: "songs",
         curVal: 0,
@@ -87,10 +87,13 @@ var goal_list = [
         maximum: 222,
         step: 1,
         description: "miles ran this year"
-    },
+    }*/
 
 ];
 
+function loadData() {
+
+}
 function addGoals() {
     goal_list.forEach(function (goal) {
         createGoal(
