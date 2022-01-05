@@ -1,9 +1,11 @@
 {
   "ExpandedNodes": [
     "",
+    "\\GoalProgressBar",
+    "\\InstagramPronounCombinations",
     "\\Portfolio",
     "\\WeatherApp"
   ],
-  "SelectedNode": "\\style.css",
+  "SelectedNode": "\\InstagramPronounCombinations\\script.js",
   "PreviewInSolutionExplorer": false
 }
